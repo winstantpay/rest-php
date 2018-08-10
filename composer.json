@@ -1,0 +1,6 @@
+{
+    "require": {
+       "splitbrain/php-cli": "^1.1",
+       "guzzlehttp/guzzle": "~6.0"
+     }
+}
