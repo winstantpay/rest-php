@@ -1,8 +1,7 @@
 <?php
 return (object) array(
-    "username" => "",
-    "password" => "",
-    "callerId" => ""
+    "url" => "http://doc.worldkyc.com/",
+    "username" => "WinstantTest",
+    "password" => "WinstantTest123",
+    "APIKey" => "11111111-1111-1111-1111-111111111111",
 );
-
-// Contact WinstantPay to get the credentials
