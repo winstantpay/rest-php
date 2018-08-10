@@ -5,3 +5,5 @@ return (object) array(
     "password" => "",
     "APIKey" => "",
 );
+
+// contact us at api@winstantpay.com for your credentials

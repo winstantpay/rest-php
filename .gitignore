@@ -1,6 +1,7 @@
 config.111.php
 config.live.php
 composer.phar
+client.empty.php
 .empty.php
 /vendor/
 
